@@ -1,0 +1,15 @@
+{
+  "name": "code_x_official_project_1",
+  "version": "1.0.0",
+  "description": "Its Official Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Code-X | KKJI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
